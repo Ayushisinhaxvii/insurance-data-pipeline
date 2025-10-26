@@ -115,4 +115,5 @@ insurance-nosql-pipeline/
 - **Transformed DBT models → clean & aggregated data**  
 - **Interactive dashboards → PowerBI**  
 
----
+<img width="1434" height="698" alt="Screenshot 2025-10-26 213229" src="https://github.com/user-attachments/assets/11636313-e4d9-4c24-8988-4f425f4d655e" />
+
