@@ -116,7 +116,3 @@ insurance-nosql-pipeline/
 - **Interactive dashboards → PowerBI**  
 
 ---
-
-**Author:** *Jaya Chandra Kadiveti*  
-**LinkedIn:** [Jaya Chandra Kadiveti](https://www.linkedin.com/in/jayachandrakadiveti/)  
-**Contact:** [datawithjay1@gmail.com](mailto:datawithjay1@gmail.com)
